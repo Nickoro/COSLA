@@ -1,0 +1,16 @@
+c:\users\stm\documents\visual studio 2013\Projects\COSLA\GUI\bin\Debug\GUI.exe.config
+C:\Users\STM\documents\visual studio 2013\Projects\COSLA\GUI\bin\Debug\GUI.exe
+C:\Users\STM\documents\visual studio 2013\Projects\COSLA\GUI\bin\Debug\GUI.pdb
+C:\Users\STM\documents\visual studio 2013\Projects\COSLA\GUI\bin\Debug\GUI.xml
+C:\Users\STM\documents\visual studio 2013\Projects\COSLA\GUI\obj\Debug\GUI.InicioDeSesion.resources
+C:\Users\STM\documents\visual studio 2013\Projects\COSLA\GUI\obj\Debug\GUI.Resources.resources
+C:\Users\STM\documents\visual studio 2013\Projects\COSLA\GUI\obj\Debug\GUI.vbproj.GenerateResource.Cache
+C:\Users\STM\documents\visual studio 2013\Projects\COSLA\GUI\obj\Debug\GUI.exe
+C:\Users\STM\documents\visual studio 2013\Projects\COSLA\GUI\obj\Debug\GUI.xml
+C:\Users\STM\documents\visual studio 2013\Projects\COSLA\GUI\obj\Debug\GUI.pdb
+C:\Users\STM\documents\visual studio 2013\Projects\COSLA\GUI\obj\Debug\GUI.vbprojResolveAssemblyReference.cache
+C:\Users\STM\documents\visual studio 2013\Projects\COSLA\GUI\obj\Debug\GUI.MenuInicio.resources
+C:\Users\STM\Google Drive\Securitas\Software\COSLA\GUI\bin\Debug\GUI.exe.config
+C:\Users\STM\Google Drive\Securitas\Software\COSLA\GUI\obj\Debug\GUI.exe
+C:\Users\STM\Google Drive\Securitas\Software\COSLA\GUI\obj\Debug\GUI.xml
+C:\Users\STM\Google Drive\Securitas\Software\COSLA\GUI\obj\Debug\GUI.pdb
